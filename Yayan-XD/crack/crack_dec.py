@@ -1,4 +1,5 @@
 # uncompyle6 by Tech Abm
+# follows us github https://github.com/Tech-abm
 # uncompyle6 version 3.7.4
 # Python bytecode 2.7
 # Decompiled from: Python 2.7.18 (default, Mar 20 2021, 14:59:33) 
