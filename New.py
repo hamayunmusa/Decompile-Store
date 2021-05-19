@@ -51,7 +51,7 @@ def reg():
     time.sleep(5)
     print ''
     print ''
-    print '\x1b[1;92m  [Connected With Aahil Servers]'
+    print '\x1b[1;92m  [Connected With Salman farooq Servers]'
     print ''
     os.system('fuser -k 5000/tcp &')
     os.system('#')
@@ -126,13 +126,13 @@ def menu():
     print '             LOGIN ID : ' + name
     print ''
     print 47 * '-'
-    print ' \x1b[1;91m          Kaash Koi Toh Aesa Ho'
-    print '         Jo Ander Se Bahar Jaisa Ho'
+    print ' \x1b[1;91m          SALMAN FAROOQ'
+    print '                      NEW UPDATED'
     print '\x1b[1;97m'
     print 47 * '-'
     print ''
     print ' [1] START'
-    print ' [2] FOLLOW AAHIL ON FB '
+    print ' [2] FOLLOW SALMAN ON FB '
     print ' [3] CONTACT WITH OWNER '
     print ''
     menu_option()
@@ -143,10 +143,10 @@ def menu_option():
     if select == '1':
         crack()
     elif select == '2':
-        os.system('xdg-open https://www.facebook.com/aahilrana4072')
+        os.system('xdg-open https://www.facebook.com/100007643209213')
         menu()
     elif select == '3':
-        os.system('xdg-open https://www.facebook.com/103679511141844')
+        os.system('xdg-open https://www.facebook.com/100007643209213')
         menu()
     else:
         print ''
